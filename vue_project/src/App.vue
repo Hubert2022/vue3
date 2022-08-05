@@ -1,8 +1,6 @@
 <template>
-<div>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="vu3仿美图"/>
-</div>
+  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+  <HelloWorld msg="vu3仿美团"/>
 </template>
 
 <script>
